@@ -1,0 +1,22 @@
+{
+  "name": "video-maker-robot",
+  "version": "1.0.0",
+  "description": "A robot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandroSeidel/Video-maker-robot.git"
+  },
+  "author": "Sandro Seidel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SandroSeidel/Video-maker-robot/issues"
+  },
+  "homepage": "https://github.com/SandroSeidel/Video-maker-robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
